@@ -1,0 +1,55 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font-size: 30px;
+  }
+  .kep {
+    text-align: center;
+  }
+  h2{
+    color:black;
+    margin-bottom: 3px;
+  }
+  .Bellabox {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    background-color: palevioletred;
+    margin-bottom: 10px;
+  }
+  .Bella {
+    width: 700px;
+    font-weight: bold;
+  }
+  .Vilibox {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    background-color: lightskyblue;
+  }
+  .Vilikep {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    margin-right: 80px;
+    justify-content: left;
+    text-align: left;
+  }
+  .Vili {
+    width: 700px;
+    font-weight: bold;
+  }
+
+
+  .Bellakep {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    margin-right: 80px;
+    justify-content: left;
+    text-align: left;
+  }
